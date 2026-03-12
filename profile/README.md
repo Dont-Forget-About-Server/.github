@@ -40,7 +40,7 @@
 
 ### 📊 Ecosystem Growth
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/org?username=Tab-Link&theme=dark&hide_border=true&include_all_commits=true" alt="Tab-Link Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tab-Link&repo=Tab-Link-Cast&theme=dark&hide_border=true" alt="Main Repo Stats" />
 </p>
 
 ---
