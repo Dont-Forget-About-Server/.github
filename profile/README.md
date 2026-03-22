@@ -45,7 +45,8 @@
 
 ### 📊 Ecosystem Growth
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tab-Link&repo=Tab-Link-Cast&theme=dark&hide_border=true" alt="Main Repo Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tab-Link&repo=DFAS-Launcher&theme=dark&hide_border=true" alt="Main Repo Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tab-Link&repo=DFAS-Server&theme=dark&hide_border=true" alt="Main Repo Stats" />
 </p>
 
 ---
